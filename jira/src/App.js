@@ -24,3 +24,5 @@ render(
   </BrowserRouter>,
   rootElement
 );
+
+export default App;
